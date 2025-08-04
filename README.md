@@ -1,3 +1,4 @@
 # KDASDB
 Kidney Disease Alternative Splicing Database (KDASDB) is a specialized database focusing on alternative splicing events (ASEs) derived from a large number of kidney disease cases, with a collection of 90273 ASEs, identified from 2406 samples, 29 kinds of kidney diseases, covering human and mouse species. KDASDB provide user-friendly query and visualization interfaces to help researchers to quickly obtain AS state and explore their biological function. By providing a comprehensive insight into the ASEs in kidney disease, KDASDB will contribute to a deeper understanding of the pathogenesis of kidney diseases and the search for new treatment strategies.
+If you are intrested in KDASDB, please access: http://www.hxdsjzx.cn/KDASDB/.
 <img width="1774" height="1238" alt="1754295488498" src="https://github.com/user-attachments/assets/05b2bf4e-8569-4d70-acb5-ee0be65d474f" />
